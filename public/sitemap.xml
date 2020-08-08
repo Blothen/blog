@@ -3,23 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https:www.blothen.tech/blog/categories/</loc>
   </url>
   
   <url>
-    <loc>/posts/</loc>
+    <loc>https:www.blothen.tech/blog/posts/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https:www.blothen.tech/blog/tags/</loc>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https:www.blothen.tech/blog/</loc>
   </url>
   
   <url>
-    <loc>/posts/my-first-post/</loc>
+    <loc>https:www.blothen.tech/blog/posts/my-first-post/</loc>
   </url>
   
 </urlset>

@@ -1,4 +1,4 @@
-baseurl = "https:www.blothen.tech/blog"
+baseurl = "https:www.blothen.tech/blog/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
